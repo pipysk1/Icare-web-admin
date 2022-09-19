@@ -1,8 +1,8 @@
 {
     "default_server_config": {
         "m.homeserver": {
-            "base_url": "https://icaregcom.globits.net",
-            "server_name": "icaregcom.globits.net"
+            "base_url": "https://gcom.globits.net",
+            "server_name": "gcom.globits.net"
         },
         "m.identity_server": {
             "base_url": "https://vector.im"
